@@ -32,6 +32,7 @@ const random = () =>{
 
     <div class="flex">
         <div>Hello</div>
+        1
         <div>World</div>
     </div>
 
